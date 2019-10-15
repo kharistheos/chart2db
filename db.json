@@ -1,4 +1,4 @@
-{"chart":{
+{
 	"2019-01-23": {
 			"videomades" :  60,
 			"subscriptions" :  60
@@ -23,12 +23,8 @@
 			"videomades" : 60,
 			"subscriptions" : 50
 		
-		  },
-	"2019-01-28": {
-			"videomades" : 60,
-			"subscriptions" : 50
-		
 		  }
+	
 
-}
+
 }
