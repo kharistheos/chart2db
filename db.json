@@ -1,26 +1,47 @@
-{ 
-  "sammy" : {
-    "username"  : "SammyShark",
-    "location"  : "Indian Ocean",
-    "online"    : true,
-    "followers" : 987
-  },
-  "jesse" : {
-    "username"  : "JesseOctopus",
-    "location"  : "Pacific Ocean",
-    "online"    : false,
-    "followers" : 432
-  },
-  "drew" : {
-    "username"  : "DrewSquid",
-    "location"  : "Atlantic Ocean",
-    "online"    : false,
-    "followers" : 321
-  },
-  "jamie" : {
-    "username"  : "JamieMantisShrimp",
-    "location"  : "Pacific Ocean",
-    "online"    : true,
-    "followers" : 654
-  }
+{
+	"2019-01-23": {
+			"videomades" :  60,
+			"subscriptions" :  60
+		
+		  },
+		"2019-01-24": {
+			"videomades" : 50,
+			"subscriptions" : 20
+		
+		  },
+	"2019-01-25": {
+			"videomades" : 70,
+			"subscriptions" : 10
+		
+		  },
+	"2019-01-26": {
+			"videomades" : 50,
+			"subscriptions" : 90
+		
+		  },
+	"2019-01-27": {
+			"videomades" : 60,
+			"subscriptions" : 50
+		
+		  },
+	"2019-01-28": {
+			"videomades" : 40,
+			"subscriptions" : 20
+		
+		  },
+	"2019-01-29": {
+			"videomades" : 30,
+			"subscriptions" : 20
+		
+		  },
+	"2019-01-30": {
+			"videomades" : 50,
+			"subscriptions" : 10
+		
+		  },	
+"2019-01-31": {
+			"videomades" : 90,
+			"subscriptions" : 40
+		
+ }
 }
