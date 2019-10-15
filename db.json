@@ -1,53 +1,53 @@
 {
-	"2019-01-23": {"id" :  01,
+	"2019-01-23": {"id" :  1,
 		       "range":"last30Days",
 			"videomades" :  60,
 			"subscriptions" :  60
 		
 		  },
-		"2019-01-24": {"id" :  02,
+		"2019-01-24": {"id" :  2,
 		       "range":"lastweek",
 			"videomades" : 50,
 			"subscriptions" : 20
 		
 		  },
-	"2019-01-25": {"id" :  03,
+	"2019-01-25": {"id" :  3,
 		       "range":"last30Days",
 			"videomades" : 70,
 			"subscriptions" : 10
 		
 		  },
-	"2019-01-26": {"id" :  04,
+	"2019-01-26": {"id" :  4,
 		       "range":"yesterday",
 			"videomades" : 50,
 			"subscriptions" : 90
 		
 		  },
-	"2019-01-27": {"id" :  05,
+	"2019-01-27": {"id" :  5,
 		       "range":"last30Days",
 			"videomades" : 60,
 			"subscriptions" : 50
 		
 		  },
-	"2019-01-28": {"id" :  06,
+	"2019-01-28": {"id" :  6,
 		       "range":"yesterday",
 			"videomades" : 40,
 			"subscriptions" : 20
 		
 		  },
-	"2019-01-29": {"id" :  07,
+	"2019-01-29": {"id" :  7,
 		       "range":"yesterday",
 			"videomades" : 30,
 			"subscriptions" : 20
 		
 		  },
-	"2019-01-30": {"id" :  08,
+	"2019-01-30": {"id" :  8,
 		       "range":"last30Days",
 			"videomades" : 50,
 			"subscriptions" : 10
 		
 		  },	
-"2019-01-31": {"id" :  09,
+"2019-01-31": {"id" :  9,
 		       "range":"yesterday",
 			"videomades" : 90,
 			"subscriptions" : 40
